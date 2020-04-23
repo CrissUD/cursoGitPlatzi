@@ -11,14 +11,28 @@ body{
 }
 
 .container{
-    width: 60%;
+    width: 70%;
     margin: 20px auto;
     border: 1px solid #ccc;
-    padding: 20px;
+    padding: 0;
 }
 
 .container p{
     font-size: 16px;
     font-weight: bold;
     color: #666;
+}
+
+.cabecera{
+    background: blue;
+    color: #ffffff;
+    text-align: left;
+    padding: 10px;
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, .70);
+}
+
+.cabecera h1{
+    display: inline;
+    margin: 10px 20px;
+    font-weight: bold;
 }
