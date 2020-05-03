@@ -4,6 +4,7 @@ body{
     color: orange;
     margin: 0;
     padding: 0;
+    background: #333;
 }
 
 *{
@@ -15,12 +16,15 @@ body{
     margin: 20px auto;
     border: 1px solid #ccc;
     padding: 0;
+    background: #ffffff;
+    min-height: 620px;
 }
 
 .container p{
     font-size: 16px;
     font-weight: bold;
     color: #666;
+    margin: 20px 80px;
 }
 
 .cabecera{
@@ -33,6 +37,19 @@ body{
 
 .cabecera h1{
     display: inline;
-    margin: 10px 20px;
+    margin: auto 0;
     font-weight: bold;
+    position: relative;
+    bottom: 25px;
+    font-size: 50px;
+}
+
+.img-logo{
+    width: 60px;
+    margin: 20px;
+}
+
+.cabecera span{
+    font-size: 13px;
+    margin-left: 0;
 }
