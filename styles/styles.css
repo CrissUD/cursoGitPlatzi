@@ -28,7 +28,7 @@ body{
 }
 
 .cabecera{
-    background: blue;
+    background: #2B589B;
     color: #ffffff;
     text-align: left;
     padding: 10px;
@@ -52,4 +52,10 @@ body{
 .cabecera span{
     font-size: 13px;
     margin-left: 0;
+}
+
+.footer{
+    background: #2B589B;
+    padding: 20px;
+    color: #ffffff;
 }
