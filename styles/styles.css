@@ -36,3 +36,9 @@ body{
     margin: 10px 20px;
     font-weight: bold;
 }
+
+.footer{
+    background: #2B589B;
+    padding: 20px;
+    color: #ffffff;
+}
