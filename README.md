@@ -11,6 +11,7 @@ En dicho curso se hace seguimiento a diferentes temáticas como:
 * Flujo de trabajo desde repositorios remotos.
 * Gestión de repositorio con un equipo de trabajo.
 * Revision de Pull Request con GitHub.
+* Manipulación de historia de commits para retroceder o avanzar.
 
 *En el curso se cubre varios aspectos que se ven en un entorno de desarrollo cotidiano y cubre aspectos para la solución de problemas que pueden presentarse en un flujo de trabajo.*
 <div align='center'>
