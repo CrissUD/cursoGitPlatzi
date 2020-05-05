@@ -59,3 +59,28 @@ body{
     padding: 20px;
     color: #ffffff;
 }
+
+.img-foto{
+    width: 100%;
+}
+
+@media(max-width:800px){
+    .container{
+        width: 90%;
+    }
+
+    .container p{
+        font-size: 14px;
+        margin: 20px 20px;
+    }
+
+    .cabecera h1{
+        margin-left: 5%;
+    }
+
+    .cabecera span{
+        display: block;
+        text-align: center;
+    }
+}
+  
