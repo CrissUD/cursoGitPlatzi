@@ -13,6 +13,9 @@ En dicho curso se hace seguimiento a diferentes temáticas como:
 * Revision de Pull Request con GitHub.
 * Manipulación de historia de commits para retroceder o avanzar.
 
+
+* Creado por el team Platzi
+
 *En el curso se cubre varios aspectos que se ven en un entorno de desarrollo cotidiano y cubre aspectos para la solución de problemas que pueden presentarse en un flujo de trabajo.*
 <div align='center'>
     <img  src='https://i.imgur.com/kD1Ieyd.png'>
