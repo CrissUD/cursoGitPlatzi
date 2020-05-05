@@ -60,6 +60,10 @@ body{
     color: #ffffff;
 }
 
+.footer h3{
+    font-size: 16px;
+}
+
 .img-foto{
     width: 100%;
 }
