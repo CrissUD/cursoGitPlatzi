@@ -15,6 +15,7 @@ En dicho curso se hace seguimiento a diferentes temáticas como:
 
 
 * Creado por el team Platzi
+* Incluye ejemplos para Windows Linux y Mac
 
 *En el curso se cubre varios aspectos que se ven en un entorno de desarrollo cotidiano y cubre aspectos para la solución de problemas que pueden presentarse en un flujo de trabajo.*
 <div align='center'>
